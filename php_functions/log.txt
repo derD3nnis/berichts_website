@@ -1,0 +1,1082 @@
+[19:01:21 18:50]: 816
+[19:01:21 18:50]: Started round: 0
+[19:01:21 18:50]: Checkpoint: 1
+[19:01:21 18:50]: Checkpoint: 2
+[19:01:21 18:50]: ../users/Dennis/berichte/notizen/2021/kw1/betrieb.txt
+[19:01:21 18:50]: keine Betrieb Notizen. KW: 1
+[19:01:21 18:50]: keine Unterweisung Notizen. KW: 1
+[19:01:21 18:50]: keine Schul Notizen. KW: 1
+[19:01:21 18:50]: Checkpoint: 3
+[19:01:21 18:50]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 18:50]: Checkpoint: 4
+[19:01:21 18:50]: Checkpoint: 4.1
+[19:01:21 18:50]: Checkpoint: 4.2
+[19:01:21 18:50]: Checkpoint: 4.3
+[19:01:21 18:50]: Checkpoint: 4.4
+[19:01:21 18:50]: Checkpoint: 4.5
+[19:01:21 18:50]: Checkpoint: 4.6
+[19:01:21 18:50]: Checkpoint: 4.7
+[19:01:21 18:50]: Checkpoint: 4.8
+[19:01:21 18:50]: Checkpoint: 4.9
+[19:01:21 18:50]: 
+[19:01:21 18:50]: Checkpoint: 5
+[19:01:21 18:50]: Checkpoint: 6
+[19:01:21 18:50]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 18:50]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf (No such file or directory)
+[19:01:21 18:50]: Checkpoint: 8
+[19:01:21 18:56]: 816
+[19:01:21 18:56]: Started round: 0
+[19:01:21 18:56]: Checkpoint: 1
+[19:01:21 18:56]: Checkpoint: 2
+[19:01:21 18:56]: ../users/Dennis/berichte/notizen/2021/kw1/betrieb.txt
+[19:01:21 18:56]: keine Betrieb Notizen. KW: 1
+[19:01:21 18:56]: keine Unterweisung Notizen. KW: 1
+[19:01:21 18:56]: keine Schul Notizen. KW: 1
+[19:01:21 18:56]: Checkpoint: 3
+[19:01:21 18:56]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 18:56]: ../users/Dennis/berichte/2021was created
+[19:01:21 18:56]: Checkpoint: 4
+[19:01:21 18:56]: Checkpoint: 4.1
+[19:01:21 18:56]: Checkpoint: 4.2
+[19:01:21 18:56]: Checkpoint: 4.3
+[19:01:21 18:56]: Checkpoint: 4.4
+[19:01:21 18:56]: Checkpoint: 4.5
+[19:01:21 18:56]: Checkpoint: 4.6
+[19:01:21 18:56]: Checkpoint: 4.7
+[19:01:21 18:56]: Checkpoint: 4.8
+[19:01:21 18:56]: Checkpoint: 4.9
+[19:01:21 18:56]: 
+[19:01:21 18:56]: Checkpoint: 5
+[19:01:21 18:56]: Checkpoint: 6
+[19:01:21 18:56]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 18:56]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf (No such file or directory)
+[19:01:21 18:56]: Checkpoint: 8
+[19:01:21 19:01]: 816
+[19:01:21 19:01]: Started round: 0
+[19:01:21 19:01]: Checkpoint: 1
+[19:01:21 19:01]: Checkpoint: 2
+[19:01:21 19:01]: ../users/Dennis/berichte/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:01]: keine Betrieb Notizen. KW: 1
+[19:01:21 19:01]: keine Unterweisung Notizen. KW: 1
+[19:01:21 19:01]: keine Schul Notizen. KW: 1
+[19:01:21 19:01]: Checkpoint: 3
+[19:01:21 19:01]: ../users/Dennis/berichte/2021//JANUARY
+[19:01:21 19:01]: ../users/Dennis/berichte/2021was created
+[19:01:21 19:01]: Checkpoint: 4
+[19:01:21 19:01]: Checkpoint: 4.1
+[19:01:21 19:01]: Checkpoint: 4.2
+[19:01:21 19:01]: Checkpoint: 4.3
+[19:01:21 19:01]: Checkpoint: 4.4
+[19:01:21 19:01]: Checkpoint: 4.5
+[19:01:21 19:01]: Checkpoint: 4.6
+[19:01:21 19:01]: Checkpoint: 4.7
+[19:01:21 19:01]: Checkpoint: 4.8
+[19:01:21 19:01]: Checkpoint: 4.9
+[19:01:21 19:01]: 
+[19:01:21 19:01]: Checkpoint: 5
+[19:01:21 19:01]: Checkpoint: 6
+[19:01:21 19:01]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:01]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf (No such file or directory)
+[19:01:21 19:01]: Checkpoint: 8
+[19:01:21 19:09]: 816
+[19:01:21 19:09]: Started round: 0
+[19:01:21 19:09]: Checkpoint: 1
+[19:01:21 19:09]: Checkpoint: 2
+[19:01:21 19:09]: ../users/Dennis/berichte/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:09]: keine Betrieb Notizen. KW: 1
+[19:01:21 19:09]: keine Unterweisung Notizen. KW: 1
+[19:01:21 19:09]: keine Schul Notizen. KW: 1
+[19:01:21 19:09]: Checkpoint: 3
+[19:01:21 19:09]: ../users/Dennis/berichte/2021//JANUARY
+[19:01:21 19:09]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:09]: ../users/Dennis/berichte/2021was created
+[19:01:21 19:09]: Checkpoint: 4
+[19:01:21 19:09]: Checkpoint: 4.1
+[19:01:21 19:09]: Checkpoint: 4.2
+[19:01:21 19:09]: Checkpoint: 4.3
+[19:01:21 19:09]: Checkpoint: 4.4
+[19:01:21 19:09]: Checkpoint: 4.5
+[19:01:21 19:09]: Checkpoint: 4.6
+[19:01:21 19:09]: Checkpoint: 4.7
+[19:01:21 19:09]: Checkpoint: 4.8
+[19:01:21 19:09]: Checkpoint: 4.9
+[19:01:21 19:09]: 
+[19:01:21 19:09]: Checkpoint: 5
+[19:01:21 19:09]: Checkpoint: 6
+[19:01:21 19:09]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:09]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf (No such file or directory)
+[19:01:21 19:09]: Checkpoint: 8
+[19:01:21 19:11]: 816
+[19:01:21 19:11]: Started round: 0
+[19:01:21 19:11]: Checkpoint: 1
+[19:01:21 19:11]: Checkpoint: 2
+[19:01:21 19:11]: ../users/Dennis/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:11]: Checkpoint: 3
+[19:01:21 19:11]: ../users/Dennis/berichte//JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichtewas created
+[19:01:21 19:11]: Checkpoint: 4
+[19:01:21 19:11]: Checkpoint: 4.1
+[19:01:21 19:11]: Checkpoint: 4.2
+[19:01:21 19:11]: Checkpoint: 4.3
+[19:01:21 19:11]: Checkpoint: 4.4
+[19:01:21 19:11]: Checkpoint: 4.5
+[19:01:21 19:11]: Checkpoint: 4.6
+[19:01:21 19:11]: Checkpoint: 4.7
+[19:01:21 19:11]: Checkpoint: 4.8
+[19:01:21 19:11]: Checkpoint: 4.9
+[19:01:21 19:11]: m?sef
+
+[19:01:21 19:11]: Checkpoint: 5
+[19:01:21 19:11]: Checkpoint: 6
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:11]: Checkpoint: 7
+[19:01:21 19:11]: Checkpoint: 8
+[19:01:21 19:11]: Checkpoint: 9
+[19:01:21 19:11]: Checkpoint: 10
+[19:01:21 19:11]: Ended round: 0 (KW: 1)
+[19:01:21 19:11]: Started round: 1
+[19:01:21 19:11]: Checkpoint: 1
+[19:01:21 19:11]: Checkpoint: 2
+[19:01:21 19:11]: ../users/Dennis/notizen/2021/kw2/betrieb.txt
+[19:01:21 19:11]: Checkpoint: 3
+[19:01:21 19:11]: ../users/Dennis/berichte//JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichteexists
+[19:01:21 19:11]: Checkpoint: 4
+[19:01:21 19:11]: Checkpoint: 4.1
+[19:01:21 19:11]: Checkpoint: 4.2
+[19:01:21 19:11]: Checkpoint: 4.3
+[19:01:21 19:11]: Checkpoint: 4.4
+[19:01:21 19:11]: Checkpoint: 4.5
+[19:01:21 19:11]: Checkpoint: 4.6
+[19:01:21 19:11]: Checkpoint: 4.7
+[19:01:21 19:11]: Checkpoint: 4.8
+[19:01:21 19:11]: Checkpoint: 4.9
+[19:01:21 19:11]: m??
+
+[19:01:21 19:11]: Checkpoint: 5
+[19:01:21 19:11]: Checkpoint: 6
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY/Wochenbericht_2021_KW2.pdf
+[19:01:21 19:11]: Checkpoint: 7
+[19:01:21 19:11]: Checkpoint: 8
+[19:01:21 19:11]: Checkpoint: 9
+[19:01:21 19:11]: Checkpoint: 10
+[19:01:21 19:11]: Ended round: 1 (KW: 2)
+[19:01:21 19:11]: Started round: 2
+[19:01:21 19:11]: Checkpoint: 1
+[19:01:21 19:11]: Checkpoint: 2
+[19:01:21 19:11]: ../users/Dennis/notizen/2021/kw3/betrieb.txt
+[19:01:21 19:11]: Checkpoint: 3
+[19:01:21 19:11]: ../users/Dennis/berichte//JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichteexists
+[19:01:21 19:11]: Checkpoint: 4
+[19:01:21 19:11]: Checkpoint: 4.1
+[19:01:21 19:11]: Checkpoint: 4.2
+[19:01:21 19:11]: Checkpoint: 4.3
+[19:01:21 19:11]: Checkpoint: 4.4
+[19:01:21 19:11]: Checkpoint: 4.5
+[19:01:21 19:11]: Checkpoint: 4.6
+[19:01:21 19:11]: Checkpoint: 4.7
+[19:01:21 19:11]: Checkpoint: 4.8
+[19:01:21 19:11]: Checkpoint: 4.9
+[19:01:21 19:11]: 2.Test
+
+[19:01:21 19:11]: Checkpoint: 5
+[19:01:21 19:11]: Checkpoint: 6
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY/Wochenbericht_2021_KW3.pdf
+[19:01:21 19:11]: Checkpoint: 7
+[19:01:21 19:11]: Checkpoint: 8
+[19:01:21 19:11]: Checkpoint: 9
+[19:01:21 19:11]: Checkpoint: 10
+[19:01:21 19:11]: Ended round: 2 (KW: 3)
+[19:01:21 19:11]: Started round: 3
+[19:01:21 19:11]: Checkpoint: 1
+[19:01:21 19:11]: Checkpoint: 2
+[19:01:21 19:11]: ../users/Dennis/notizen/2021/kw4/betrieb.txt
+[19:01:21 19:11]: keine Betrieb Notizen. KW: 4
+[19:01:21 19:11]: keine Unterweisung Notizen. KW: 4
+[19:01:21 19:11]: keine Schul Notizen. KW: 4
+[19:01:21 19:11]: Checkpoint: 3
+[19:01:21 19:11]: ../users/Dennis/berichte//JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY
+[19:01:21 19:11]: ../users/Dennis/berichteexists
+[19:01:21 19:11]: Checkpoint: 4
+[19:01:21 19:11]: Checkpoint: 4.1
+[19:01:21 19:11]: Checkpoint: 4.2
+[19:01:21 19:11]: Checkpoint: 4.3
+[19:01:21 19:11]: Checkpoint: 4.4
+[19:01:21 19:11]: Checkpoint: 4.5
+[19:01:21 19:11]: Checkpoint: 4.6
+[19:01:21 19:11]: Checkpoint: 4.7
+[19:01:21 19:11]: Checkpoint: 4.8
+[19:01:21 19:11]: Checkpoint: 4.9
+[19:01:21 19:11]: 
+[19:01:21 19:11]: Checkpoint: 5
+[19:01:21 19:11]: Checkpoint: 6
+[19:01:21 19:11]: ../users/Dennis/berichte/JANUARY/Wochenbericht_2021_KW4.pdf
+[19:01:21 19:11]: Checkpoint: 7
+[19:01:21 19:11]: Checkpoint: 8
+[19:01:21 19:11]: Checkpoint: 9
+[19:01:21 19:11]: Checkpoint: 10
+[19:01:21 19:11]: Ended round: 3 (KW: 4)
+[19:01:21 19:11]: Finished! Next week would be: KW5
+[19:01:21 19:16]: 816
+[19:01:21 19:16]: Started round: 0
+[19:01:21 19:16]: Checkpoint: 1
+[19:01:21 19:16]: Checkpoint: 2
+[19:01:21 19:16]: ../users/Dennis/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:16]: Checkpoint: 3
+[19:01:21 19:16]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:16]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:16]: ../users/Dennis/berichtewas created
+[19:01:21 19:16]: Checkpoint: 4
+[19:01:21 19:16]: Checkpoint: 4.1
+[19:01:21 19:16]: Checkpoint: 4.2
+[19:01:21 19:16]: Checkpoint: 4.3
+[19:01:21 19:16]: Checkpoint: 4.4
+[19:01:21 19:16]: Checkpoint: 4.5
+[19:01:21 19:16]: Checkpoint: 4.6
+[19:01:21 19:16]: Checkpoint: 4.7
+[19:01:21 19:16]: Checkpoint: 4.8
+[19:01:21 19:16]: Checkpoint: 4.9
+[19:01:21 19:16]: m?sef
+
+[19:01:21 19:16]: Checkpoint: 5
+[19:01:21 19:16]: Checkpoint: 6
+[19:01:21 19:16]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:16]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf (No such file or directory)
+[19:01:21 19:16]: Checkpoint: 8
+[19:01:21 19:19]: 816
+[19:01:21 19:19]: Started round: 0
+[19:01:21 19:19]: Checkpoint: 1
+[19:01:21 19:19]: Checkpoint: 2
+[19:01:21 19:19]: ../users/Dennis/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:19]: Checkpoint: 3
+[19:01:21 19:19]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichtewas created
+[19:01:21 19:19]: Checkpoint: 4
+[19:01:21 19:19]: Checkpoint: 4.1
+[19:01:21 19:19]: Checkpoint: 4.2
+[19:01:21 19:19]: Checkpoint: 4.3
+[19:01:21 19:19]: Checkpoint: 4.4
+[19:01:21 19:19]: Checkpoint: 4.5
+[19:01:21 19:19]: Checkpoint: 4.6
+[19:01:21 19:19]: Checkpoint: 4.7
+[19:01:21 19:19]: Checkpoint: 4.8
+[19:01:21 19:19]: Checkpoint: 4.9
+[19:01:21 19:19]: m?sef
+
+[19:01:21 19:19]: Checkpoint: 5
+[19:01:21 19:19]: Checkpoint: 6
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:19]: Checkpoint: 7
+[19:01:21 19:19]: Checkpoint: 8
+[19:01:21 19:19]: Checkpoint: 9
+[19:01:21 19:19]: Checkpoint: 10
+[19:01:21 19:19]: Ended round: 0 (KW: 1)
+[19:01:21 19:19]: Started round: 1
+[19:01:21 19:19]: Checkpoint: 1
+[19:01:21 19:19]: Checkpoint: 2
+[19:01:21 19:19]: ../users/Dennis/notizen/2021/kw2/betrieb.txt
+[19:01:21 19:19]: Checkpoint: 3
+[19:01:21 19:19]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichteexists
+[19:01:21 19:19]: Checkpoint: 4
+[19:01:21 19:19]: Checkpoint: 4.1
+[19:01:21 19:19]: Checkpoint: 4.2
+[19:01:21 19:19]: Checkpoint: 4.3
+[19:01:21 19:19]: Checkpoint: 4.4
+[19:01:21 19:19]: Checkpoint: 4.5
+[19:01:21 19:19]: Checkpoint: 4.6
+[19:01:21 19:19]: Checkpoint: 4.7
+[19:01:21 19:19]: Checkpoint: 4.8
+[19:01:21 19:19]: Checkpoint: 4.9
+[19:01:21 19:19]: m??
+
+[19:01:21 19:19]: Checkpoint: 5
+[19:01:21 19:19]: Checkpoint: 6
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW2.pdf
+[19:01:21 19:19]: Checkpoint: 7
+[19:01:21 19:19]: Checkpoint: 8
+[19:01:21 19:19]: Checkpoint: 9
+[19:01:21 19:19]: Checkpoint: 10
+[19:01:21 19:19]: Ended round: 1 (KW: 2)
+[19:01:21 19:19]: Started round: 2
+[19:01:21 19:19]: Checkpoint: 1
+[19:01:21 19:19]: Checkpoint: 2
+[19:01:21 19:19]: ../users/Dennis/notizen/2021/kw3/betrieb.txt
+[19:01:21 19:19]: Checkpoint: 3
+[19:01:21 19:19]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichteexists
+[19:01:21 19:19]: Checkpoint: 4
+[19:01:21 19:19]: Checkpoint: 4.1
+[19:01:21 19:19]: Checkpoint: 4.2
+[19:01:21 19:19]: Checkpoint: 4.3
+[19:01:21 19:19]: Checkpoint: 4.4
+[19:01:21 19:19]: Checkpoint: 4.5
+[19:01:21 19:19]: Checkpoint: 4.6
+[19:01:21 19:19]: Checkpoint: 4.7
+[19:01:21 19:19]: Checkpoint: 4.8
+[19:01:21 19:19]: Checkpoint: 4.9
+[19:01:21 19:19]: 2.Test
+
+[19:01:21 19:19]: Checkpoint: 5
+[19:01:21 19:19]: Checkpoint: 6
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW3.pdf
+[19:01:21 19:19]: Checkpoint: 7
+[19:01:21 19:19]: Checkpoint: 8
+[19:01:21 19:19]: Checkpoint: 9
+[19:01:21 19:19]: Checkpoint: 10
+[19:01:21 19:19]: Ended round: 2 (KW: 3)
+[19:01:21 19:19]: Started round: 3
+[19:01:21 19:19]: Checkpoint: 1
+[19:01:21 19:19]: Checkpoint: 2
+[19:01:21 19:19]: ../users/Dennis/notizen/2021/kw4/betrieb.txt
+[19:01:21 19:19]: keine Betrieb Notizen. KW: 4
+[19:01:21 19:19]: keine Unterweisung Notizen. KW: 4
+[19:01:21 19:19]: keine Schul Notizen. KW: 4
+[19:01:21 19:19]: Checkpoint: 3
+[19:01:21 19:19]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:19]: ../users/Dennis/berichteexists
+[19:01:21 19:19]: Checkpoint: 4
+[19:01:21 19:19]: Checkpoint: 4.1
+[19:01:21 19:19]: Checkpoint: 4.2
+[19:01:21 19:19]: Checkpoint: 4.3
+[19:01:21 19:19]: Checkpoint: 4.4
+[19:01:21 19:19]: Checkpoint: 4.5
+[19:01:21 19:19]: Checkpoint: 4.6
+[19:01:21 19:19]: Checkpoint: 4.7
+[19:01:21 19:19]: Checkpoint: 4.8
+[19:01:21 19:19]: Checkpoint: 4.9
+[19:01:21 19:19]: 
+[19:01:21 19:19]: Checkpoint: 5
+[19:01:21 19:19]: Checkpoint: 6
+[19:01:21 19:19]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW4.pdf
+[19:01:21 19:19]: Checkpoint: 7
+[19:01:21 19:19]: Checkpoint: 8
+[19:01:21 19:19]: Checkpoint: 9
+[19:01:21 19:19]: Checkpoint: 10
+[19:01:21 19:19]: Ended round: 3 (KW: 4)
+[19:01:21 19:19]: Finished! Next week would be: KW5
+[19:01:21 19:43]: 816
+[19:01:21 19:43]: Started round: 0
+[19:01:21 19:43]: Checkpoint: 1
+[19:01:21 19:43]: Checkpoint: 2
+[19:01:21 19:43]: ../users/Dennis/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:43]: Checkpoint: 3
+[19:01:21 19:43]: ../users/Dennis/berichte//2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichtewas created
+[19:01:21 19:43]: Checkpoint: 4
+[19:01:21 19:43]: Checkpoint: 4.1
+[19:01:21 19:43]: Checkpoint: 4.2
+[19:01:21 19:43]: Checkpoint: 4.3
+[19:01:21 19:43]: Checkpoint: 4.4
+[19:01:21 19:43]: Checkpoint: 4.5
+[19:01:21 19:43]: Checkpoint: 4.6
+[19:01:21 19:43]: Checkpoint: 4.7
+[19:01:21 19:43]: Checkpoint: 4.8
+[19:01:21 19:43]: Checkpoint: 4.9
+[19:01:21 19:43]: m?sef
+3
+
+[19:01:21 19:43]: Checkpoint: 5
+[19:01:21 19:43]: Checkpoint: 6
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:43]: Checkpoint: 7
+[19:01:21 19:43]: Checkpoint: 8
+[19:01:21 19:43]: Checkpoint: 9
+[19:01:21 19:43]: Checkpoint: 10
+[19:01:21 19:43]: Ended round: 0 (KW: 1)
+[19:01:21 19:43]: Started round: 1
+[19:01:21 19:43]: Checkpoint: 1
+[19:01:21 19:43]: Checkpoint: 2
+[19:01:21 19:43]: ../users/Dennis/notizen/2021/kw2/betrieb.txt
+[19:01:21 19:43]: Checkpoint: 3
+[19:01:21 19:43]: ../users/Dennis/berichte//2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichteexists
+[19:01:21 19:43]: Checkpoint: 4
+[19:01:21 19:43]: Checkpoint: 4.1
+[19:01:21 19:43]: Checkpoint: 4.2
+[19:01:21 19:43]: Checkpoint: 4.3
+[19:01:21 19:43]: Checkpoint: 4.4
+[19:01:21 19:43]: Checkpoint: 4.5
+[19:01:21 19:43]: Checkpoint: 4.6
+[19:01:21 19:43]: Checkpoint: 4.7
+[19:01:21 19:43]: Checkpoint: 4.8
+[19:01:21 19:43]: Checkpoint: 4.9
+[19:01:21 19:43]: m??
+3
+
+[19:01:21 19:43]: Checkpoint: 5
+[19:01:21 19:43]: Checkpoint: 6
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY/Wochenbericht_2021_KW2.pdf
+[19:01:21 19:43]: Checkpoint: 7
+[19:01:21 19:43]: Checkpoint: 8
+[19:01:21 19:43]: Checkpoint: 9
+[19:01:21 19:43]: Checkpoint: 10
+[19:01:21 19:43]: Ended round: 1 (KW: 2)
+[19:01:21 19:43]: Started round: 2
+[19:01:21 19:43]: Checkpoint: 1
+[19:01:21 19:43]: Checkpoint: 2
+[19:01:21 19:43]: ../users/Dennis/notizen/2021/kw3/betrieb.txt
+[19:01:21 19:43]: Checkpoint: 3
+[19:01:21 19:43]: ../users/Dennis/berichte//2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichteexists
+[19:01:21 19:43]: Checkpoint: 4
+[19:01:21 19:43]: Checkpoint: 4.1
+[19:01:21 19:43]: Checkpoint: 4.2
+[19:01:21 19:43]: Checkpoint: 4.3
+[19:01:21 19:43]: Checkpoint: 4.4
+[19:01:21 19:43]: Checkpoint: 4.5
+[19:01:21 19:43]: Checkpoint: 4.6
+[19:01:21 19:43]: Checkpoint: 4.7
+[19:01:21 19:43]: Checkpoint: 4.8
+[19:01:21 19:43]: Checkpoint: 4.9
+[19:01:21 19:43]: 3
+2.Test
+
+[19:01:21 19:43]: Checkpoint: 5
+[19:01:21 19:43]: Checkpoint: 6
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY/Wochenbericht_2021_KW3.pdf
+[19:01:21 19:43]: Checkpoint: 7
+[19:01:21 19:43]: Checkpoint: 8
+[19:01:21 19:43]: Checkpoint: 9
+[19:01:21 19:43]: Checkpoint: 10
+[19:01:21 19:43]: Ended round: 2 (KW: 3)
+[19:01:21 19:43]: Started round: 3
+[19:01:21 19:43]: Checkpoint: 1
+[19:01:21 19:43]: Checkpoint: 2
+[19:01:21 19:43]: ../users/Dennis/notizen/2021/kw4/betrieb.txt
+[19:01:21 19:43]: Checkpoint: 3
+[19:01:21 19:43]: ../users/Dennis/berichte//2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY
+[19:01:21 19:43]: ../users/Dennis/berichteexists
+[19:01:21 19:43]: Checkpoint: 4
+[19:01:21 19:43]: Checkpoint: 4.1
+[19:01:21 19:43]: Checkpoint: 4.2
+[19:01:21 19:43]: Checkpoint: 4.3
+[19:01:21 19:43]: Checkpoint: 4.4
+[19:01:21 19:43]: Checkpoint: 4.5
+[19:01:21 19:43]: Checkpoint: 4.6
+[19:01:21 19:43]: Checkpoint: 4.7
+[19:01:21 19:43]: Checkpoint: 4.8
+[19:01:21 19:43]: Checkpoint: 4.9
+[19:01:21 19:43]: 3
+
+[19:01:21 19:43]: Checkpoint: 5
+[19:01:21 19:43]: Checkpoint: 6
+[19:01:21 19:43]: ../users/Dennis/berichte/2021JANUARY/Wochenbericht_2021_KW4.pdf
+[19:01:21 19:43]: Checkpoint: 7
+[19:01:21 19:43]: Checkpoint: 8
+[19:01:21 19:43]: Checkpoint: 9
+[19:01:21 19:43]: Checkpoint: 10
+[19:01:21 19:43]: Ended round: 3 (KW: 4)
+[19:01:21 19:43]: Finished! Next week would be: KW5
+[19:01:21 19:44]: 816
+[19:01:21 19:44]: Started round: 0
+[19:01:21 19:44]: Checkpoint: 1
+[19:01:21 19:44]: Checkpoint: 2
+[19:01:21 19:44]: ../users/Dennis/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:44]: Checkpoint: 3
+[19:01:21 19:44]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichteexists
+[19:01:21 19:44]: Checkpoint: 4
+[19:01:21 19:44]: Checkpoint: 4.1
+[19:01:21 19:44]: Checkpoint: 4.2
+[19:01:21 19:44]: Checkpoint: 4.3
+[19:01:21 19:44]: Checkpoint: 4.4
+[19:01:21 19:44]: Checkpoint: 4.5
+[19:01:21 19:44]: Checkpoint: 4.6
+[19:01:21 19:44]: Checkpoint: 4.7
+[19:01:21 19:44]: Checkpoint: 4.8
+[19:01:21 19:44]: Checkpoint: 4.9
+[19:01:21 19:44]: m?sef
+3
+
+[19:01:21 19:44]: Checkpoint: 5
+[19:01:21 19:44]: Checkpoint: 6
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:44]: Checkpoint: 7
+[19:01:21 19:44]: Checkpoint: 8
+[19:01:21 19:44]: Checkpoint: 9
+[19:01:21 19:44]: Checkpoint: 10
+[19:01:21 19:44]: Ended round: 0 (KW: 1)
+[19:01:21 19:44]: Started round: 1
+[19:01:21 19:44]: Checkpoint: 1
+[19:01:21 19:44]: Checkpoint: 2
+[19:01:21 19:44]: ../users/Dennis/notizen/2021/kw2/betrieb.txt
+[19:01:21 19:44]: Checkpoint: 3
+[19:01:21 19:44]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichteexists
+[19:01:21 19:44]: Checkpoint: 4
+[19:01:21 19:44]: Checkpoint: 4.1
+[19:01:21 19:44]: Checkpoint: 4.2
+[19:01:21 19:44]: Checkpoint: 4.3
+[19:01:21 19:44]: Checkpoint: 4.4
+[19:01:21 19:44]: Checkpoint: 4.5
+[19:01:21 19:44]: Checkpoint: 4.6
+[19:01:21 19:44]: Checkpoint: 4.7
+[19:01:21 19:44]: Checkpoint: 4.8
+[19:01:21 19:44]: Checkpoint: 4.9
+[19:01:21 19:44]: m??
+3
+
+[19:01:21 19:44]: Checkpoint: 5
+[19:01:21 19:44]: Checkpoint: 6
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW2.pdf
+[19:01:21 19:44]: Checkpoint: 7
+[19:01:21 19:44]: Checkpoint: 8
+[19:01:21 19:44]: Checkpoint: 9
+[19:01:21 19:44]: Checkpoint: 10
+[19:01:21 19:44]: Ended round: 1 (KW: 2)
+[19:01:21 19:44]: Started round: 2
+[19:01:21 19:44]: Checkpoint: 1
+[19:01:21 19:44]: Checkpoint: 2
+[19:01:21 19:44]: ../users/Dennis/notizen/2021/kw3/betrieb.txt
+[19:01:21 19:44]: Checkpoint: 3
+[19:01:21 19:44]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichteexists
+[19:01:21 19:44]: Checkpoint: 4
+[19:01:21 19:44]: Checkpoint: 4.1
+[19:01:21 19:44]: Checkpoint: 4.2
+[19:01:21 19:44]: Checkpoint: 4.3
+[19:01:21 19:44]: Checkpoint: 4.4
+[19:01:21 19:44]: Checkpoint: 4.5
+[19:01:21 19:44]: Checkpoint: 4.6
+[19:01:21 19:44]: Checkpoint: 4.7
+[19:01:21 19:44]: Checkpoint: 4.8
+[19:01:21 19:44]: Checkpoint: 4.9
+[19:01:21 19:44]: 3
+2.Test
+
+[19:01:21 19:44]: Checkpoint: 5
+[19:01:21 19:44]: Checkpoint: 6
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW3.pdf
+[19:01:21 19:44]: Checkpoint: 7
+[19:01:21 19:44]: Checkpoint: 8
+[19:01:21 19:44]: Checkpoint: 9
+[19:01:21 19:44]: Checkpoint: 10
+[19:01:21 19:44]: Ended round: 2 (KW: 3)
+[19:01:21 19:44]: Started round: 3
+[19:01:21 19:44]: Checkpoint: 1
+[19:01:21 19:44]: Checkpoint: 2
+[19:01:21 19:44]: ../users/Dennis/notizen/2021/kw4/betrieb.txt
+[19:01:21 19:44]: Checkpoint: 3
+[19:01:21 19:44]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:44]: ../users/Dennis/berichteexists
+[19:01:21 19:44]: Checkpoint: 4
+[19:01:21 19:44]: Checkpoint: 4.1
+[19:01:21 19:44]: Checkpoint: 4.2
+[19:01:21 19:44]: Checkpoint: 4.3
+[19:01:21 19:44]: Checkpoint: 4.4
+[19:01:21 19:44]: Checkpoint: 4.5
+[19:01:21 19:44]: Checkpoint: 4.6
+[19:01:21 19:44]: Checkpoint: 4.7
+[19:01:21 19:44]: Checkpoint: 4.8
+[19:01:21 19:44]: Checkpoint: 4.9
+[19:01:21 19:44]: 3
+
+[19:01:21 19:44]: Checkpoint: 5
+[19:01:21 19:44]: Checkpoint: 6
+[19:01:21 19:44]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW4.pdf
+[19:01:21 19:44]: Checkpoint: 7
+[19:01:21 19:44]: Checkpoint: 8
+[19:01:21 19:44]: Checkpoint: 9
+[19:01:21 19:44]: Checkpoint: 10
+[19:01:21 19:44]: Ended round: 3 (KW: 4)
+[19:01:21 19:44]: Finished! Next week would be: KW5
+[19:01:21 19:50]: 816
+[19:01:21 19:50]: Started round: 0
+[19:01:21 19:50]: Checkpoint: 1
+[19:01:21 19:50]: Checkpoint: 2
+[19:01:21 19:50]: ../users/Dall1241/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:50]: Checkpoint: 3
+[19:01:21 19:50]: ../users/Dall1241/berichte//2021/JANUARY
+[19:01:21 19:50]: ../users/Dall1241/berichte/2021/JANUARY
+[19:01:21 19:50]: ../users/Dall1241/berichtewas created
+[19:01:21 19:50]: Checkpoint: 4
+[19:01:21 19:50]: Checkpoint: 4.1
+[19:01:21 19:50]: Checkpoint: 4.2
+[19:01:21 19:50]: Checkpoint: 4.3
+[19:01:21 19:50]: Checkpoint: 4.4
+[19:01:21 19:50]: Checkpoint: 4.5
+[19:01:21 19:50]: Checkpoint: 4.6
+[19:01:21 19:50]: Checkpoint: 4.7
+[19:01:21 19:50]: Checkpoint: 4.8
+[19:01:21 19:50]: Checkpoint: 4.9
+[19:01:21 19:50]: Bu Lenz Wiederholung zum Thema Regelungstechnik mit Hilfe von Aufgaben
+Bu Barz Schematischer Aufbau eines Boa Kraftwerk erkl?ren und aufgaben dazu beantworten
+
+[19:01:21 19:50]: Checkpoint: 5
+[19:01:21 19:50]: Checkpoint: 6
+[19:01:21 19:50]: ../users/Dall1241/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:50]: ../users/Dall1241/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf (No such file or directory)
+[19:01:21 19:50]: Checkpoint: 8
+[19:01:21 19:51]: 816
+[19:01:21 19:51]: Started round: 0
+[19:01:21 19:51]: Checkpoint: 1
+[19:01:21 19:51]: Checkpoint: 2
+[19:01:21 19:51]: ../users/Dall1241/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:51]: Checkpoint: 3
+[19:01:21 19:51]: ../users/Dall1241/berichte//2021/JANUARY
+[19:01:21 19:51]: ../users/Dall1241/berichte/2021/JANUARY
+[19:01:21 19:51]: ../users/Dall1241/berichtewas created
+[19:01:21 19:51]: Checkpoint: 4
+[19:01:21 19:51]: Checkpoint: 4.1
+[19:01:21 19:51]: Checkpoint: 4.2
+[19:01:21 19:51]: Checkpoint: 4.3
+[19:01:21 19:51]: Checkpoint: 4.4
+[19:01:21 19:51]: Checkpoint: 4.5
+[19:01:21 19:51]: Checkpoint: 4.6
+[19:01:21 19:51]: Checkpoint: 4.7
+[19:01:21 19:51]: Checkpoint: 4.8
+[19:01:21 19:51]: Checkpoint: 4.9
+[19:01:21 19:51]: Bu Lenz Wiederholung zum Thema Regelungstechnik mit Hilfe von Aufgaben
+Bu Barz Schematischer Aufbau eines Boa Kraftwerk erkl?ren und aufgaben dazu beantworten
+
+[19:01:21 19:51]: Checkpoint: 5
+[19:01:21 19:51]: Checkpoint: 6
+[19:01:21 19:51]: ../users/Dall1241/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:51]: Checkpoint: 7
+[19:01:21 19:51]: Checkpoint: 8
+[19:01:21 19:51]: Checkpoint: 9
+[19:01:21 19:51]: Checkpoint: 10
+[19:01:21 19:51]: Ended round: 0 (KW: 1)
+[19:01:21 19:51]: Started round: 1
+[19:01:21 19:51]: Checkpoint: 1
+[19:01:21 19:51]: Checkpoint: 2
+[19:01:21 19:51]: ../users/Dall1241/notizen/2021/kw2/betrieb.txt
+[19:01:21 19:51]: Checkpoint: 3
+[19:01:21 19:51]: ../users/Dall1241/berichte//2021/JANUARY
+[19:01:21 19:51]: ../users/Dall1241/berichte/2021/JANUARY
+[19:01:21 19:51]: ../users/Dall1241/berichteexists
+[19:01:21 19:51]: Checkpoint: 4
+[19:01:21 19:51]: Checkpoint: 4.1
+[19:01:21 19:51]: Checkpoint: 4.2
+[19:01:21 19:51]: Checkpoint: 4.3
+[19:01:21 19:51]: Checkpoint: 4.4
+[19:01:21 19:51]: Checkpoint: 4.5
+[19:01:21 19:51]: Checkpoint: 4.6
+[19:01:21 19:51]: Checkpoint: 4.7
+[19:01:21 19:51]: Checkpoint: 4.8
+[19:01:21 19:51]: Checkpoint: 4.9
+[19:01:21 19:51]: Bu Barth Handouts Lampenarten fertigstellen 
+Bu Barz Besprechen Kohlekraftwerke und Beginn mit Kernkraftwerken
+Bu Lenz Beginn mit Feldbussystemen 
+
+[19:01:21 19:51]: Checkpoint: 5
+[19:01:21 19:51]: Checkpoint: 6
+[19:01:21 19:51]: ../users/Dall1241/berichte/2021/JANUARY/Wochenbericht_2021_KW2.pdf
+[19:01:21 19:51]: Checkpoint: 7
+[19:01:21 19:51]: Checkpoint: 8
+[19:01:21 19:51]: Checkpoint: 9
+[19:01:21 19:51]: Checkpoint: 10
+[19:01:21 19:51]: Ended round: 1 (KW: 2)
+[19:01:21 19:51]: Finished! Next week would be: KW3
+[19:01:21 19:51]: 816
+[19:01:21 19:51]: Started round: 0
+[19:01:21 19:51]: Checkpoint: 1
+[19:01:21 19:51]: Checkpoint: 2
+[19:01:21 19:51]: ../users/Dennis/notizen/2021/kw49/betrieb.txt
+[19:01:21 19:51]: keine Betrieb Notizen. KW: 49
+[19:01:21 19:51]: keine Unterweisung Notizen. KW: 49
+[19:01:21 19:51]: keine Schul Notizen. KW: 49
+[19:01:21 19:51]: Checkpoint: 3
+[19:01:21 19:51]: ../users/Dennis/berichte//2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichtewas created
+[19:01:21 19:51]: Checkpoint: 4
+[19:01:21 19:51]: Checkpoint: 4.1
+[19:01:21 19:51]: Checkpoint: 4.2
+[19:01:21 19:51]: Checkpoint: 4.3
+[19:01:21 19:51]: Checkpoint: 4.4
+[19:01:21 19:51]: Checkpoint: 4.5
+[19:01:21 19:51]: Checkpoint: 4.6
+[19:01:21 19:51]: Checkpoint: 4.7
+[19:01:21 19:51]: Checkpoint: 4.8
+[19:01:21 19:51]: Checkpoint: 4.9
+[19:01:21 19:51]: 
+[19:01:21 19:51]: Checkpoint: 5
+[19:01:21 19:51]: Checkpoint: 6
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER/Wochenbericht_2021_KW49.pdf
+[19:01:21 19:51]: Checkpoint: 7
+[19:01:21 19:51]: Checkpoint: 8
+[19:01:21 19:51]: Checkpoint: 9
+[19:01:21 19:51]: Checkpoint: 10
+[19:01:21 19:51]: Ended round: 0 (KW: 49)
+[19:01:21 19:51]: Started round: 1
+[19:01:21 19:51]: Checkpoint: 1
+[19:01:21 19:51]: Checkpoint: 2
+[19:01:21 19:51]: ../users/Dennis/notizen/2021/kw50/betrieb.txt
+[19:01:21 19:51]: keine Betrieb Notizen. KW: 50
+[19:01:21 19:51]: keine Unterweisung Notizen. KW: 50
+[19:01:21 19:51]: keine Schul Notizen. KW: 50
+[19:01:21 19:51]: Checkpoint: 3
+[19:01:21 19:51]: ../users/Dennis/berichte//2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichteexists
+[19:01:21 19:51]: Checkpoint: 4
+[19:01:21 19:51]: Checkpoint: 4.1
+[19:01:21 19:51]: Checkpoint: 4.2
+[19:01:21 19:51]: Checkpoint: 4.3
+[19:01:21 19:51]: Checkpoint: 4.4
+[19:01:21 19:51]: Checkpoint: 4.5
+[19:01:21 19:51]: Checkpoint: 4.6
+[19:01:21 19:51]: Checkpoint: 4.7
+[19:01:21 19:51]: Checkpoint: 4.8
+[19:01:21 19:51]: Checkpoint: 4.9
+[19:01:21 19:51]: 
+[19:01:21 19:51]: Checkpoint: 5
+[19:01:21 19:51]: Checkpoint: 6
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER/Wochenbericht_2021_KW50.pdf
+[19:01:21 19:51]: Checkpoint: 7
+[19:01:21 19:51]: Checkpoint: 8
+[19:01:21 19:51]: Checkpoint: 9
+[19:01:21 19:51]: Checkpoint: 10
+[19:01:21 19:51]: Ended round: 1 (KW: 50)
+[19:01:21 19:51]: Started round: 2
+[19:01:21 19:51]: Checkpoint: 1
+[19:01:21 19:51]: Checkpoint: 2
+[19:01:21 19:51]: ../users/Dennis/notizen/2021/kw51/betrieb.txt
+[19:01:21 19:51]: keine Betrieb Notizen. KW: 51
+[19:01:21 19:51]: keine Unterweisung Notizen. KW: 51
+[19:01:21 19:51]: keine Schul Notizen. KW: 51
+[19:01:21 19:51]: Checkpoint: 3
+[19:01:21 19:51]: ../users/Dennis/berichte//2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichteexists
+[19:01:21 19:51]: Checkpoint: 4
+[19:01:21 19:51]: Checkpoint: 4.1
+[19:01:21 19:51]: Checkpoint: 4.2
+[19:01:21 19:51]: Checkpoint: 4.3
+[19:01:21 19:51]: Checkpoint: 4.4
+[19:01:21 19:51]: Checkpoint: 4.5
+[19:01:21 19:51]: Checkpoint: 4.6
+[19:01:21 19:51]: Checkpoint: 4.7
+[19:01:21 19:51]: Checkpoint: 4.8
+[19:01:21 19:51]: Checkpoint: 4.9
+[19:01:21 19:51]: 
+[19:01:21 19:51]: Checkpoint: 5
+[19:01:21 19:51]: Checkpoint: 6
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER/Wochenbericht_2021_KW51.pdf
+[19:01:21 19:51]: Checkpoint: 7
+[19:01:21 19:51]: Checkpoint: 8
+[19:01:21 19:51]: Checkpoint: 9
+[19:01:21 19:51]: Checkpoint: 10
+[19:01:21 19:51]: Ended round: 2 (KW: 51)
+[19:01:21 19:51]: Started round: 3
+[19:01:21 19:51]: Checkpoint: 1
+[19:01:21 19:51]: Checkpoint: 2
+[19:01:21 19:51]: ../users/Dennis/notizen/2021/kw52/betrieb.txt
+[19:01:21 19:51]: keine Betrieb Notizen. KW: 52
+[19:01:21 19:51]: keine Unterweisung Notizen. KW: 52
+[19:01:21 19:51]: keine Schul Notizen. KW: 52
+[19:01:21 19:51]: Checkpoint: 3
+[19:01:21 19:51]: ../users/Dennis/berichte//2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER
+[19:01:21 19:51]: ../users/Dennis/berichteexists
+[19:01:21 19:51]: Checkpoint: 4
+[19:01:21 19:51]: Checkpoint: 4.1
+[19:01:21 19:51]: Checkpoint: 4.2
+[19:01:21 19:51]: Checkpoint: 4.3
+[19:01:21 19:51]: Checkpoint: 4.4
+[19:01:21 19:51]: Checkpoint: 4.5
+[19:01:21 19:51]: Checkpoint: 4.6
+[19:01:21 19:51]: Checkpoint: 4.7
+[19:01:21 19:51]: Checkpoint: 4.8
+[19:01:21 19:51]: Checkpoint: 4.9
+[19:01:21 19:51]: 
+[19:01:21 19:51]: Checkpoint: 5
+[19:01:21 19:51]: Checkpoint: 6
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/DECEMBER/Wochenbericht_2021_KW52.pdf
+[19:01:21 19:51]: Checkpoint: 7
+[19:01:21 19:51]: Checkpoint: 8
+[19:01:21 19:51]: Checkpoint: 9
+[19:01:21 19:51]: Checkpoint: 10
+[19:01:21 19:51]: Ended round: 3 (KW: 52)
+[19:01:21 19:51]: Started round: 4
+[19:01:21 19:51]: Checkpoint: 1
+[19:01:21 19:51]: Checkpoint: 2
+[19:01:21 19:51]: ../users/Dennis/notizen/2021/kw53/betrieb.txt
+[19:01:21 19:51]: keine Betrieb Notizen. KW: 53
+[19:01:21 19:51]: keine Unterweisung Notizen. KW: 53
+[19:01:21 19:51]: keine Schul Notizen. KW: 53
+[19:01:21 19:51]: Checkpoint: 3
+[19:01:21 19:51]: ../users/Dennis/berichte//2021/JANUARY
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/JANUARY
+[19:01:21 19:51]: ../users/Dennis/berichteexists
+[19:01:21 19:51]: Checkpoint: 4
+[19:01:21 19:51]: Checkpoint: 4.1
+[19:01:21 19:51]: Checkpoint: 4.2
+[19:01:21 19:51]: Checkpoint: 4.3
+[19:01:21 19:51]: Checkpoint: 4.4
+[19:01:21 19:51]: Checkpoint: 4.5
+[19:01:21 19:51]: Checkpoint: 4.6
+[19:01:21 19:51]: Checkpoint: 4.7
+[19:01:21 19:51]: Checkpoint: 4.8
+[19:01:21 19:51]: Checkpoint: 4.9
+[19:01:21 19:51]: 
+[19:01:21 19:51]: Checkpoint: 5
+[19:01:21 19:51]: Checkpoint: 6
+[19:01:21 19:51]: ../users/Dennis/berichte/2021/JANUARY/Wochenbericht_2021_KW53.pdf
+[19:01:21 19:51]: Checkpoint: 7
+[19:01:21 19:51]: Checkpoint: 8
+[19:01:21 19:51]: Checkpoint: 9
+[19:01:21 19:51]: Checkpoint: 10
+[19:01:21 19:51]: Ended round: 4 (KW: 53)
+[19:01:21 19:51]: Finished! Next week would be: KW54
+[19:01:21 19:52]: 816
+[19:01:21 19:52]: Started round: 0
+[19:01:21 19:52]: Checkpoint: 1
+[19:01:21 19:52]: Checkpoint: 2
+[19:01:21 19:52]: ../users/Dennis/notizen/2020/kw49/betrieb.txt
+[19:01:21 19:52]: Checkpoint: 3
+[19:01:21 19:52]: ../users/Dennis/berichte//2020/NOVEMBER
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/NOVEMBER
+[19:01:21 19:52]: ../users/Dennis/berichteexists
+[19:01:21 19:52]: Checkpoint: 4
+[19:01:21 19:52]: Checkpoint: 4.1
+[19:01:21 19:52]: Checkpoint: 4.2
+[19:01:21 19:52]: Checkpoint: 4.3
+[19:01:21 19:52]: Checkpoint: 4.4
+[19:01:21 19:52]: Checkpoint: 4.5
+[19:01:21 19:52]: Checkpoint: 4.6
+[19:01:21 19:52]: Checkpoint: 4.7
+[19:01:21 19:52]: Checkpoint: 4.8
+[19:01:21 19:52]: Checkpoint: 4.9
+[19:01:21 19:52]: Einstieg in das Thema Netzaufbau, Pr?sentation ?ber verschiedene Kraftwerke und Lastarten angesehen, Arbeitsauftr?ge ?ber Synchronmaschienen 
+
+[19:01:21 19:52]: Checkpoint: 5
+[19:01:21 19:52]: Checkpoint: 6
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/NOVEMBER/Wochenbericht_2020_KW49.pdf
+[19:01:21 19:52]: Checkpoint: 7
+[19:01:21 19:52]: Checkpoint: 8
+[19:01:21 19:52]: Checkpoint: 9
+[19:01:21 19:52]: Checkpoint: 10
+[19:01:21 19:52]: Ended round: 0 (KW: 49)
+[19:01:21 19:52]: Started round: 1
+[19:01:21 19:52]: Checkpoint: 1
+[19:01:21 19:52]: Checkpoint: 2
+[19:01:21 19:52]: ../users/Dennis/notizen/2020/kw50/betrieb.txt
+[19:01:21 19:52]: Checkpoint: 3
+[19:01:21 19:52]: ../users/Dennis/berichte//2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichteexists
+[19:01:21 19:52]: Checkpoint: 4
+[19:01:21 19:52]: Checkpoint: 4.1
+[19:01:21 19:52]: Checkpoint: 4.2
+[19:01:21 19:52]: Checkpoint: 4.3
+[19:01:21 19:52]: Checkpoint: 4.4
+[19:01:21 19:52]: Checkpoint: 4.5
+[19:01:21 19:52]: Checkpoint: 4.6
+[19:01:21 19:52]: Checkpoint: 4.7
+[19:01:21 19:52]: Checkpoint: 4.8
+[19:01:21 19:52]: Checkpoint: 4.9
+[19:01:21 19:52]: Pr?sentation Kraftwerkstypen;
+Funktionsweise von W?rmekraftwerken;
+Aufgaben zu Regelungstechnik;
+Besprechung Aufgaben zu Servomotoren;
+
+[19:01:21 19:52]: Checkpoint: 5
+[19:01:21 19:52]: Checkpoint: 6
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER/Wochenbericht_2020_KW50.pdf
+[19:01:21 19:52]: Checkpoint: 7
+[19:01:21 19:52]: Checkpoint: 8
+[19:01:21 19:52]: Checkpoint: 9
+[19:01:21 19:52]: Checkpoint: 10
+[19:01:21 19:52]: Ended round: 1 (KW: 50)
+[19:01:21 19:52]: Started round: 2
+[19:01:21 19:52]: Checkpoint: 1
+[19:01:21 19:52]: Checkpoint: 2
+[19:01:21 19:52]: ../users/Dennis/notizen/2020/kw51/betrieb.txt
+[19:01:21 19:52]: Checkpoint: 3
+[19:01:21 19:52]: ../users/Dennis/berichte//2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichteexists
+[19:01:21 19:52]: Checkpoint: 4
+[19:01:21 19:52]: Checkpoint: 4.1
+[19:01:21 19:52]: Checkpoint: 4.2
+[19:01:21 19:52]: Checkpoint: 4.3
+[19:01:21 19:52]: Checkpoint: 4.4
+[19:01:21 19:52]: Checkpoint: 4.5
+[19:01:21 19:52]: Checkpoint: 4.6
+[19:01:21 19:52]: Checkpoint: 4.7
+[19:01:21 19:52]: Checkpoint: 4.8
+[19:01:21 19:52]: Checkpoint: 4.9
+[19:01:21 19:52]: Test zu Gerichtbarkeit in Deutschland;
+Kohlekraftwerke in Deutschland;
+Rechnungen zu  Regelungtechnik;
+Besprechung Aufgaben Licht;
+
+[19:01:21 19:52]: Checkpoint: 5
+[19:01:21 19:52]: Checkpoint: 6
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER/Wochenbericht_2020_KW51.pdf
+[19:01:21 19:52]: Checkpoint: 7
+[19:01:21 19:52]: Checkpoint: 8
+[19:01:21 19:52]: Checkpoint: 9
+[19:01:21 19:52]: Checkpoint: 10
+[19:01:21 19:52]: Ended round: 2 (KW: 51)
+[19:01:21 19:52]: Started round: 3
+[19:01:21 19:52]: Checkpoint: 1
+[19:01:21 19:52]: Checkpoint: 2
+[19:01:21 19:52]: ../users/Dennis/notizen/2020/kw52/betrieb.txt
+[19:01:21 19:52]: Checkpoint: 3
+[19:01:21 19:52]: ../users/Dennis/berichte//2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichteexists
+[19:01:21 19:52]: Checkpoint: 4
+[19:01:21 19:52]: Checkpoint: 4.1
+[19:01:21 19:52]: Checkpoint: 4.2
+[19:01:21 19:52]: Checkpoint: 4.3
+[19:01:21 19:52]: Checkpoint: 4.4
+[19:01:21 19:52]: Checkpoint: 4.5
+[19:01:21 19:52]: Checkpoint: 4.6
+[19:01:21 19:52]: Checkpoint: 4.7
+[19:01:21 19:52]: Checkpoint: 4.8
+[19:01:21 19:52]: Checkpoint: 4.9
+[19:01:21 19:52]: Ferien
+
+[19:01:21 19:52]: Checkpoint: 5
+[19:01:21 19:52]: Checkpoint: 6
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER/Wochenbericht_2020_KW52.pdf
+[19:01:21 19:52]: Checkpoint: 7
+[19:01:21 19:52]: Checkpoint: 8
+[19:01:21 19:52]: Checkpoint: 9
+[19:01:21 19:52]: Checkpoint: 10
+[19:01:21 19:52]: Ended round: 3 (KW: 52)
+[19:01:21 19:52]: Started round: 4
+[19:01:21 19:52]: Checkpoint: 1
+[19:01:21 19:52]: Checkpoint: 2
+[19:01:21 19:52]: ../users/Dennis/notizen/2020/kw53/betrieb.txt
+[19:01:21 19:52]: Checkpoint: 3
+[19:01:21 19:52]: ../users/Dennis/berichte//2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER
+[19:01:21 19:52]: ../users/Dennis/berichteexists
+[19:01:21 19:52]: Checkpoint: 4
+[19:01:21 19:52]: Checkpoint: 4.1
+[19:01:21 19:52]: Checkpoint: 4.2
+[19:01:21 19:52]: Checkpoint: 4.3
+[19:01:21 19:52]: Checkpoint: 4.4
+[19:01:21 19:52]: Checkpoint: 4.5
+[19:01:21 19:52]: Checkpoint: 4.6
+[19:01:21 19:52]: Checkpoint: 4.7
+[19:01:21 19:52]: Checkpoint: 4.8
+[19:01:21 19:52]: Checkpoint: 4.9
+[19:01:21 19:52]: 
+[19:01:21 19:52]: Checkpoint: 5
+[19:01:21 19:52]: Checkpoint: 6
+[19:01:21 19:52]: ../users/Dennis/berichte/2020/DECEMBER/Wochenbericht_2020_KW53.pdf
+[19:01:21 19:52]: Checkpoint: 7
+[19:01:21 19:52]: Checkpoint: 8
+[19:01:21 19:52]: Checkpoint: 9
+[19:01:21 19:52]: Checkpoint: 10
+[19:01:21 19:52]: Ended round: 4 (KW: 53)
+[19:01:21 19:52]: Finished! Next week would be: KW54
+[19:01:21 19:56]: 816
+[19:01:21 19:56]: Started round: 0
+[19:01:21 19:56]: Checkpoint: 1
+[19:01:21 19:56]: Checkpoint: 2
+[19:01:21 19:56]: ../users/Dall1241/notizen/2021/kw1/betrieb.txt
+[19:01:21 19:56]: Checkpoint: 3
+[19:01:21 19:56]: ../users/Dall1241/berichte//2021/JANUARY
+[19:01:21 19:56]: ../users/Dall1241/berichte/2021/JANUARY
+[19:01:21 19:56]: ../users/Dall1241/berichteexists
+[19:01:21 19:56]: Checkpoint: 4
+[19:01:21 19:56]: Checkpoint: 4.1
+[19:01:21 19:56]: Checkpoint: 4.2
+[19:01:21 19:56]: Checkpoint: 4.3
+[19:01:21 19:56]: Checkpoint: 4.4
+[19:01:21 19:56]: Checkpoint: 4.5
+[19:01:21 19:56]: Checkpoint: 4.6
+[19:01:21 19:56]: Checkpoint: 4.7
+[19:01:21 19:56]: Checkpoint: 4.8
+[19:01:21 19:56]: Checkpoint: 4.9
+[19:01:21 19:56]: Bu Lenz Wiederholung zum Thema Regelungstechnik mit Hilfe von Aufgaben
+Bu Barz Schematischer Aufbau eines Boa Kraftwerk erkl?ren und aufgaben dazu beantworten
+
+[19:01:21 19:56]: Checkpoint: 5
+[19:01:21 19:56]: Checkpoint: 6
+[19:01:21 19:56]: ../users/Dall1241/berichte/2021/JANUARY/Wochenbericht_2021_KW1.pdf
+[19:01:21 19:56]: Checkpoint: 7
+[19:01:21 19:56]: Checkpoint: 8
+[19:01:21 19:56]: Checkpoint: 9
+[19:01:21 19:56]: Checkpoint: 10
+[19:01:21 19:56]: Ended round: 0 (KW: 1)
+[19:01:21 19:56]: Started round: 1
+[19:01:21 19:56]: Checkpoint: 1
+[19:01:21 19:56]: Checkpoint: 2
+[19:01:21 19:56]: ../users/Dall1241/notizen/2021/kw2/betrieb.txt
+[19:01:21 19:56]: Checkpoint: 3
+[19:01:21 19:56]: ../users/Dall1241/berichte//2021/JANUARY
+[19:01:21 19:56]: ../users/Dall1241/berichte/2021/JANUARY
+[19:01:21 19:56]: ../users/Dall1241/berichteexists
+[19:01:21 19:56]: Checkpoint: 4
+[19:01:21 19:56]: Checkpoint: 4.1
+[19:01:21 19:56]: Checkpoint: 4.2
+[19:01:21 19:56]: Checkpoint: 4.3
+[19:01:21 19:56]: Checkpoint: 4.4
+[19:01:21 19:56]: Checkpoint: 4.5
+[19:01:21 19:56]: Checkpoint: 4.6
+[19:01:21 19:56]: Checkpoint: 4.7
+[19:01:21 19:56]: Checkpoint: 4.8
+[19:01:21 19:56]: Checkpoint: 4.9
+[19:01:21 19:56]: Bu Barth Handouts Lampenarten fertigstellen 
+Bu Barz Besprechen Kohlekraftwerke und Beginn mit Kernkraftwerken
+Bu Lenz Beginn mit Feldbussystemen 
+
+[19:01:21 19:56]: Checkpoint: 5
+[19:01:21 19:56]: Checkpoint: 6
+[19:01:21 19:56]: ../users/Dall1241/berichte/2021/JANUARY/Wochenbericht_2021_KW2.pdf
+[19:01:21 19:56]: Checkpoint: 7
+[19:01:21 19:56]: Checkpoint: 8
+[19:01:21 19:56]: Checkpoint: 9
+[19:01:21 19:56]: Checkpoint: 10
+[19:01:21 19:56]: Ended round: 1 (KW: 2)
+[19:01:21 19:56]: Finished! Next week would be: KW3
+[03:02:21 07:35]: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[03:02:21 07:35]: Started round: 0
+[03:02:21 07:35]: Checkpoint: 1
+[03:02:21 07:35]: Checkpoint: 2
+[03:02:21 07:35]: ../users/Dall1241/notizen/2021/kw6/betrieb.txt
+[03:02:21 07:35]: keine Betrieb Notizen. KW: 6
+[03:02:21 07:35]: keine Unterweisung Notizen. KW: 6
+[03:02:21 07:35]: keine Schul Notizen. KW: 6
+[03:02:21 07:35]: Checkpoint: 3
+[03:02:21 07:35]: ../users/Dall1241/berichte//2021/FEBRUARY
+[03:02:21 07:35]: ../users/Dall1241/berichte/2021/FEBRUARY
+[03:02:21 07:35]: ../users/Dall1241/berichtewas created
+[03:02:21 07:35]: Checkpoint: 4
+[03:02:21 07:35]: Checkpoint: 4.1
+[03:02:21 07:35]: Checkpoint: 4.2
+[03:02:21 07:35]: Checkpoint: 4.3
+[03:02:21 07:35]: Checkpoint: 4.4
+[03:02:21 07:35]: Checkpoint: 4.5
+[03:02:21 07:35]: Checkpoint: 4.6
+[03:02:21 07:35]: Checkpoint: 4.7
+[03:02:21 07:35]: Checkpoint: 4.8
+[03:02:21 07:35]: Checkpoint: 4.9
+[03:02:21 07:35]: 
+[03:02:21 07:35]: Checkpoint: 5
+[03:02:21 07:35]: Checkpoint: 6
+[03:02:21 07:35]: ../users/Dall1241/berichte/2021/FEBRUARY/Wochenbericht_2021_KW6.pdf
+[03:02:21 07:35]: Checkpoint: 7
+[03:02:21 07:35]: Checkpoint: 8
+[03:02:21 07:35]: Checkpoint: 9
+[03:02:21 07:35]: Checkpoint: 10
+[03:02:21 07:35]: Ended round: 0 (KW: 6)
+[03:02:21 07:35]: Finished! Next week would be: KW7
